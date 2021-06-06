@@ -7,3 +7,5 @@ Download the video needed from the below link:-
 https://sites.google.com/site/backgroundsubtraction/test-sequences/human-activities?authuser=0
 
 To run the code, open the present ipynb file in google colab or jupyter notebook and keep the video in the required directory. Change the path of the video in the code and click on run all. You will see the outputs below the cells of code.
+
+More details on how the code works is in the report and ppt.
